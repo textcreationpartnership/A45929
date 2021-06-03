@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions for [blank] collector of his Majesties customs in the port of [blank]</title>
+            <author>Great Britain. Customs Establishment.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45929</idno><idno type="EEBO-CITATION">99825870</idno>
+  <idno type="VID">30261</idno>
+  <idno type="EEBO-PROQUEST">2240911100</idno>
+  
+            <idno type="STC">Wing I240B</idno>
+            <idno type="STC">ESTC R213502</idno>
+            <idno type="PROQUEST">99825870</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99825870e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45929)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30261)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1795:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions for [blank] collector of his Majesties customs in the port of [blank]</title>
+                  <author>Great Britain. Customs Establishment.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1688]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Instructions issued by the commissioners of customs.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Customs administration --  England --  Officials and employees --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:30261:1"/>
+            <head>Instructions for <add rend="onBlank">George Dickinson</add> Collector of his Majesties Customs in the Port of <add rend="onBlank">Plimouth</add>
+            </head>
+            <p n="1">I. YOu shall from time to time, so long as you shall continue and be em<g ref="char:EOLhyphen"/>ployed in the said Office, well and truly Collect and Receive all, and every sum and sums of Money, arising and growing due and payable to our Sovereign Lord the King, within the said Port of <add rend="onBlank">Plimouth</add> and the Members and Creeks thereunto belonging, for or in respect of any Goods, Wares, Wines, or other Merchandizes Imported into, or Exported out of the same.</p>
+            <p n="2">II. You shall during the time aforesaid, make and give to <add rend="onBlank">Giles Lytcott Esq<seg rend="sup">r</seg>. Comptrol<seg rend="sup">••</seg> Gen<seg rend="sup">••</seg> of the Accompts of his Ma<seg rend="sup">•</seg> Customs, or the Comptrol<seg rend="sup">••</seg> Gen<seg rend="sup">••</seg>
+                  <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </add> for the time being, a true and just Accompt of all such Duties, Dues, and Moneys, so by you the said <add rend="onBlank">Geo Dickinson</add> to be received at the Four usual Feasts of the year, (that is to say) <hi>At the Feasts of the Birth of Our Lord Christ; The An<g ref="char:EOLhyphen"/>nunciation of the Virgin</hi> Mary; <hi>The Nativity of St.</hi> John the Baptist, <hi>and St.</hi> Mi<g ref="char:EOLhyphen"/>chael <hi>the Archangel;</hi> or within Fourteen dayes next after every of the said Feasts, in every year, or oftner, if thereunto required.</p>
+            <p n="3">III. You shall from time to time, well and truly pay, or cause to be paid un<g ref="char:EOLhyphen"/>to <add rend="onBlank">Rich<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> K<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt Esq<seg rend="sup">r</seg> R<seg rend="sup">•</seg> Gen<seg rend="sup">••</seg> of Cash<seg rend="sup">•</seg> of his Maj Customs <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> or <gap reason="illegible" resp="#murp" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> hereater for the</add> time being, at the Custom-house within the Port of <add rend="onBlank">Plimouth</add> all and every the sum and sums of Money to be by you Collected and Received as aforesaid, as you shall receive the same; making di<g ref="char:EOLhyphen"/>stinction in your payments, whether by Bill of Exchange, or otherwise, betwixt the Moneys payable for Custom, Subsidy, and Additional Duty, and his Maje<g ref="char:EOLhyphen"/>sties Impost upon Wines and Vinegar.</p>
+            <p n="4">IV. You shall at the Feast of St. <hi>Michael</hi> the Arch-Angel, in every year, or within thirty days after, fully pay in, discharge, and clear your Accompts of all the Moneys due, and by you collected for the year ending at the Feast aforesaid: And also shall well and truly perform and execute the said Office or Place in all things thereunto appertaining.</p>
+            <p n="5">V. You shall not directly or indirectly, either in your own name, or in the name or names of any other person or persons, or in Company or Partnership with any other, Trade as a Mer<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for your self, or as a Factor, or Agent for any other, in or for any Goods▪ Wares, or Merchandizes.</p>
+            <p n="6">V<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> You shall do your best <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nde<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r, in taking good Security, by Bond or Bonds; for the Additional <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Impost upon Wines and Vinegar, in such manner as the Law directs <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>ely answer and pay all such sum and sums of Money as you shall <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ece<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> such Bonds, unto the said Receiver Ge<g ref="char:EOLhyphen"/>neral and Cashier.</p>
+            <p n="7">VII. <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou shall upo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> made by the said Commissioners, or any <gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ee or more of them <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or persons to be by <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>em app<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nted in that b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>half, deliver <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>missioners, or such p<gap reason="illegible" resp="#murp" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>n or persons so appointed, all such <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> shall at the time of <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> demand re<g ref="char:EOLhyphen"/>main unsati<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> safe, and uncancell<gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p n="8">
+               <pb facs="tcp:30261:2"/>VIII. You shall not pay or allow any Sallaries, otherwise, then as you shall from time to time be directed by Us, nor any Moneys by way of incident charges, but in the usual cases of Tides-men and Boat-mens daily pay, with the Rent for his Majesties Custom-house in your Port, unless you receive our directions in writing for so doing: and before you shall pay any Tides-man, or Boat-man, his daily pay, you shall have the Surveyors Certificate of such Tides-men and Boat-mens service, and Money due unto him.</p>
+            <p n="9">IX. You shall grant no Bill of Sight or Sufferance, for the Landing of any Mer<g ref="char:EOLhyphen"/>chandize, but only to such persons who shall make Oath before you, That they have neither Invoice, Letter, or other Advice, whereby to make known the true Contents of such Goods, for which they desire such Bill of Sight or Sufferance.</p>
+            <p n="10">X. You shall cause all Warrants and Entries for Goods and Merchandizes, both Inwards and Outwards, to be Entred <hi>de die in diem,</hi> in the open Custom-house, in the books which we have, or shall transmit unto you; and shall write and adjust your Quarter-books, to be sent unto Us in the method and form prescribed, in the book of Directions sent unto you: And every Quarter-book is to be Signed by your self, and by the Surveyor, expressing, That you and the Surveyor have examined the whole Book, and find that the quality and quantity of all Merchan<g ref="char:EOLhyphen"/>dizes Imported, and Exported within your Port, during such Quarter is truly En<g ref="char:EOLhyphen"/>tred therein.</p>
+            <p n="11">XI. Besides, the quarterly accompt, as aforesaid, you shall also remit to Us, such monthly, or other abstracts, or accompts Currant, as we from time to time shall direct.</p>
+            <p n="12">XII. You shall not give credit, or trust, to any Merchant, or other person, in the forbearance of ready money, in payment of Custom or other his Majesties Duties; but shall receive all Customs, and other Duties upon passing the Entries, unless in such cases, where the Law allows the taking of Bonds, and therein you are to proceed according as the Act directs.</p>
+            <p n="13">XIII. You shall have a due care and inspection, as well into the Demeanour of all Officers, Agents, or Deputies, deputed by Us in the said Port, as into the Demeanour of his Majesties Patent-Officers, and their Deputies, and of all other persons employed in your Port, in or about his Majesties Customs: and where you shall discover any fraud, negligence, or mis-behaviour, you shall impartially acquaint Us therewith, to the end, we may take such course for redress thereof, as we shall see cause</p>
+            <p n="14">XIV. You shall not only faithfully, and diligently discharge and execute the Trust and Employment of a Collector in right receiving, accompting and paying all sums of money, which you shall, or ought to receive for his Majesty; but in every other matter and thing relating to the Duty of a Collector of the Customs in the said Port, shall well and duely demean your self; and shall not do any act or thing, whereby, or wherein, his Majesty shall be prejudiced, hindred, or damaged in his Custom, Customs, or other Duties, or any Law relating to the Importation, or Exportation of Goods or Merchandizes violated or broken.</p>
+            <closer>
+               <dateline>
+                  <add rend="onBlank">
+                     <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> London <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 1688.</add>
+               </dateline>
+               <signed>
+                  <add rend="onBlank">H Bronne <gap reason="illegible" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </add>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
